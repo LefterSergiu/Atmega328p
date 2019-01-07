@@ -15,7 +15,7 @@ Fotorezistor (tip 5528);
 Modul Senzor PIR HC-SR501 (Senzor de Miscare);
 
 
-Senzorul de miscare detecteaza razele infrarosii iar fotorezistorul isi schimba rezistenta in funtie de intensitatea luminii. Cu cat lumina este mai puternica cu atat rezistenta acestuia scade si invers.
+Senzorul de miscare detecteaza razele infrarosii iar fotorezistorul isi schimba rezistenta in functie de intensitatea luminii. Cu cat lumina este mai puternica cu atat rezistenta acestuia scade si invers.
 
 Daca cele doua conditii sunt satisfacute microcontrolerul trimite semnal catre tranzistorul NPN. Acesta se deschide si permite aprinderea LED-ului.
 

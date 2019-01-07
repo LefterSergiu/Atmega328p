@@ -1,4 +1,4 @@
-# SISTEM AUTOMAT DE ILUMINAT
+# SISTEM DE ILUMINAT
 
 Acesta poate fi uitilizat pentru economisirea energiei.
 
